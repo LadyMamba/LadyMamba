@@ -1,3 +1,5 @@
+
+
 $wallet.gitignore
 *.[wallet]
 * wallet pid~
